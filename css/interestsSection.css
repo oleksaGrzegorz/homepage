@@ -1,0 +1,15 @@
+.interestsSection {
+    margin-top: 100px;
+}
+
+.interestsSection__header {
+    text-align: center;
+}
+
+.interestsSection__bookImage {
+    width: 200px;
+    box-shadow: 5px 5px 5px 0px #1D191E;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

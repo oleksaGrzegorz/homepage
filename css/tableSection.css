@@ -1,0 +1,49 @@
+.tableSection {
+    background-color: rgb(195, 202, 202);
+    padding: 10px;
+}
+
+.tableSection__table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.tableSection__caption {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.tableSection__Cell--Header {
+    background-color: rgb(75, 71, 71);
+    color: #fff;
+}
+
+.tableSection__Cell {
+    border: 1px solid #000;
+    padding: 15px;
+    text-align: center;
+}
+
+.tableSection__Row:nth-child(even) {
+    background-color: gray;
+}
+
+.tableSection__Row:hover {
+    background-color: rgb(236, 250, 43)
+}
+
+.tableSection__Row {
+    background-color: #fff;
+}
+
+.tableSection__link {
+    color: black;
+    text-decoration: none;
+}
+
+.tableSection__link:hover {
+    border-bottom: 1px solid;
+    font-weight: bold;
+    outline: none;
+}
