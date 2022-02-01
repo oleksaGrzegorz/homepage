@@ -3,6 +3,8 @@
 ## Demo
 https://oleksagrzegorz.github.io/homepage/
 
+![gif how works my homepage](homepage.gif)
+
 
 ## Description
 
