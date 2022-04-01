@@ -3,6 +3,10 @@
     padding: 10px;
 }
 
+.tableContainer {
+    overflow-x: auto;
+}
+
 .tableSection__table {
     border-collapse: collapse;
     margin: auto;
