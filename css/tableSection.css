@@ -23,6 +23,10 @@
     color: #fff;
 }
 
+.tableSection__Cell--Header:hover {
+    background-color: hsl(0, 3%, 17%); 
+}
+
 .tableSection__Cell {
     border: 1px solid #000;
     padding: 15px;
