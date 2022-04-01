@@ -55,3 +55,7 @@
     font-weight: bold;
     outline: none;
 }
+
+.tableSection__header {
+    text-align: center;
+}
