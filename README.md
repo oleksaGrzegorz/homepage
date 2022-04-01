@@ -3,7 +3,7 @@
 ## Demo
 https://oleksagrzegorz.github.io/homepage/
 
-![gif how works my homepage](homepage.gif)
+![gif how works my homepage](https://github.com/oleksaGrzegorz/homepage/blob/main/images/homepage.gif)
 
 
 ## Description
